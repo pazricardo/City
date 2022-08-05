@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aqua view-population="yes"><tile x="416" y="96" type="building" file="hospital.png" population="300"/><tile x="288" y="96" type="building" file="market.png" population="100"/><tile x="160" y="96" type="hive"/><tile x="352" y="128" type="building" file="condos.png" population="100"/><tile x="224" y="128" type="building" file="farm0.png" population="10"/><tile x="160" y="160" type="building" file="yellowhouse.png" population="10"/><tile x="96" y="192" type="building" file="market.png" population="100"/></aqua>
